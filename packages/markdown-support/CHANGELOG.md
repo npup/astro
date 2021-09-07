@@ -1,5 +1,11 @@
 # @astrojs/markdown-support
 
+## 0.3.1
+
+### Patch Changes
+
+- 7cb31c6e: Fix the importing of `unified` `Plugin` and `UnifiedPlugin` types
+
 ## 0.3.0
 
 ### Minor Changes
